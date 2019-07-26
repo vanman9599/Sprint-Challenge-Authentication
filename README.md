@@ -41,7 +41,7 @@ bcrypt is used to hash passwords one-way instead of two ways for encryption.
 bcrypt allows to specify how many times to hash a password in order to take a bit longer to authenticate in order to avoid Brute-Force attackes.
 
 1. What are the three parts of the JSON Web Token?
-
+git
 The three parts of a JSON web token are: Header, payload, and signautre.
 
 ## Project Set Up
